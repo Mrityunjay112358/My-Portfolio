@@ -1,0 +1,14 @@
+table, th, td {
+    border: 2px ridge rgb(202, 69, 36);
+    text-align: center;
+  }
+
+th{
+  width: 200px;
+  height: 40px;
+}
+p{
+  background-color: greenyellow;
+  width: 300px;
+  font-size: larger;
+}
